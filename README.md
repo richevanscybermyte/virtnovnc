@@ -5,7 +5,7 @@
 ## Deploy
 
 ```bash
-kubectl apply -f https://github.com/wavezhang/virtVNC/raw/master/k8s/virtvnc.yaml
+kubectl apply -f https://github.com/richevanscybermyte/virtnovnc/raw/master/k8s/virtvnc.yaml
 ```
 
 ## Usage
