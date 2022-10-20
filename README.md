@@ -26,4 +26,4 @@ http://NODEIP:NODEPORT/?namespace=test
 ![virtVNC](https://github.com/richevanscybermyte/virtnovnc/blob/master/virtvnc.gif?raw=true)
 
 ## Credits
-All credit should go to WaveShangs project ![virtvnc](https://github.com/wavezhang/virtVNC)  I am simply updating the parts and pieces.
+All credit should go to WaveZhangs project ![virtvnc](https://github.com/wavezhang/virtVNC)  I am simply updating the parts and pieces.
