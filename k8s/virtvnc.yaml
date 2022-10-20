@@ -83,7 +83,7 @@ spec:
         effect: "NoSchedule"
       containers:
       - name: virtvnc
-        image: quay.io/samblade/virtvnc:v0.1
+        image: docker.io/richevanscymy/virtnovnc:latest
         livenessProbe:
           httpGet:
             port: 8001
